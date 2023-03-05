@@ -1,0 +1,43 @@
+body {
+    background-color: #5b5e32;
+}
+
+.melon-image {
+    height: 300px;
+    width: 300px;
+}
+
+#melon-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #6a9992;
+    margin: 3px;
+}
+
+h5 a {
+    color: #24344c;
+}
+
+h5 a:hover {
+    color: rgb(147, 80, 119);
+}
+
+img {
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+.btn {
+    background-color: #6a9992;
+    border-color: #6a9992;
+    color:#24344c;
+}
+
+.btn:hover {
+    background-color: #3a4c49;
+    border-color: #3a4c49;
+    color: rgb(147, 80, 119);
+}
